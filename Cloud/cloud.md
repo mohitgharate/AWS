@@ -1,4 +1,5 @@
 # What is cloud?
+***
 Basically cloud is a server which is access over the internet on any device anywhere. Cloud servers are located all voer the world which is called data center. User can run the softwares, databasees on cloud server. By using cloud, user do not need to have servers to manage storage and do not need  any softwares on their machine. 
 
 ![Image](https://www.cloudflare.com/resources/images/slt3lc6tev37/3YT0gya2bkUeuMrnGxhjAZ/4146c20c214cf001c74c0868ddfb9503/what-is-the-cloud.png)
