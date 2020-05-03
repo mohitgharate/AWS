@@ -8,19 +8,19 @@ Basically cloud is a server which is access over the internet on any device anyw
 
 ## Types of cloud:-
 ***
- 1.Private cloud->
+** 1.Private cloud->**
  
 Private cloud is a server which is owened by one organization and it is fully dadicated to that particular orgnization.
 
-2.Public cloud->
+**2.Public cloud->**
 
 Public cloud is a service run by an external vendors that may include servers in one or more data centers. servers are shared by multiple organizations. Using virtual machines, individual servers may be shared by different companies. This situation is called "Mulititenancy" because multiple organizations used one server.
  
-3.Hybrid cloud->
+**3.Hybrid cloud->**
 
 Hybrid cloud deployments combine public and private clouds.  An organization may use their private cloud for some services and their public cloud for others, or they may use the public cloud as backup for their private cloud.
 
-4.Multicloud->
+**4.Multicloud->**
 
 Multicloud is a type of cloud deployment that involves using multiple public clouds. In other words, an organization with a multicloud deployment rents virtual servers and services from several external vendors.
 
