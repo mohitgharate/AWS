@@ -23,7 +23,7 @@ When you use EC2, Amazon provides you with its service based on the “cloud com
 ## How to create instance EC2 in AWS :-
 ***
 
-EC2 is a remote machine i.e. virtual machine and in EC2 we can create it as per our requirement.
+EC2 is a remote machine i.e. virtual machine and we can create it as per our requirement.
 
 *so lets see the steps ->*
 
