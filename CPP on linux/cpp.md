@@ -13,6 +13,7 @@ If  it shows like above image then you have to install gcc in linux.
 
 
 **Step-1 : Installation of GCC-C++**
+***
 
 command to install :\
 `yum -y install gcc`
