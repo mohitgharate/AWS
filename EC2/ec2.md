@@ -18,14 +18,14 @@ Traditionally, to set up a server for your company, you would be responsible for
 When you use EC2, Amazon provides you with its service based on the “cloud computing model”. You can borrow a chunk of your desired size from their data centers on a “pay as you go” basis.
 
 ## Advantages of EC2 :-
-***
 
->1. You don’t have to go through the hassle of managing your server(s).
->2. Scalability i.e.You can shrink and expand the capacity of your instance whenever you want.
->3. You can commit as many EC2 instances as you require.
->4. Amazon provides you with flexible cloud hosting services like choosing the OS, memory and CPU configuration.
->5. reliable and secure.
-
+```
+1. You don’t have to go through the hassle of managing your server(s).
+2. Scalability i.e.You can shrink and expand the capacity of your instance whenever you want.
+3. You can commit as many EC2 instances as you require.
+4. Amazon provides you with flexible cloud hosting services like choosing the OS, memory and CPU configuration.
+5. reliable and secure.
+```
 
 ## How to create instance EC2 in AWS :-
 
