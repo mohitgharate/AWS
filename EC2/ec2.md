@@ -36,7 +36,7 @@ EC2 is a remote machine i.e. virtual machine and in EC2 we can create it as per 
 **Step-1** :
 
 Here choose the OS for an EC2 instance as per the requirement \
-![Image](URL)
+![Image](https://github.com/mohitgharate/AWS/tree/aws-cloud/EC2/step1.png)
 
 **Step-2** :
 
