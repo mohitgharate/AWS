@@ -36,4 +36,4 @@ Multicloud is a type of cloud deployment that involves using multiple public clo
 9.Loss Prevention\
 10.Automatic Software Updates\
 11.Competitive Edge\
-12.Sustainability\
+12.Sustainability
