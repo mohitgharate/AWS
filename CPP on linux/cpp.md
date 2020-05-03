@@ -6,7 +6,7 @@ first check setup is istalled or not.\
 To check try the command :\
 `gcc --version`
 
-![Image](Image/1.png)
+![Image](1.png)
 
 
 If  it shows like above image then you have to install gcc in linux.
