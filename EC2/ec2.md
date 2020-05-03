@@ -3,7 +3,7 @@
 
 Elastic Compute Cloud, or EC2, is the central part of Amazon Cloud Services, a cloud computing platform that allows users to rent virtual servers on which they can run their own applications.
 
-                                                ![Image](server.svg)
+ ![Image][1]                                           [1]:(server.svg)
 
 Traditionally, to set up a server for your company, you would be responsible for :
 
