@@ -17,17 +17,17 @@ If  it shows like above image then you have to install gcc in linux.
 command to install :\
 `yum -y install gcc`
 
-![Image](Image/2.png)
+![Image](2.png)
 
 command to update :\
 `sudo yum update`
 
-![Image](Image/3.png)
+![Image](3.png)
 
 Check the version again :\
 `gcc --version`
 
-![Image](Image/4.png)
+![Image](4.png)
 
 As might be seen from the output, the GCC version distributed by red hat 7 is 7.3.1-6 which is not the latest version of GCC.
 
@@ -36,7 +36,7 @@ You may also want to install gcc-c++. It will automatically include the C++ libr
 Enter this command to Install GCC-C++ :\
 `yum -y install gcc-c++`
 
-![Image](Image/10.png)
+![Image](10.png)
 
 *Now setup is ready to execute our first CPP program on our AWS LINUX Instance.*
 
@@ -47,11 +47,11 @@ For editor rry command :\
 e.g.\
 `vi first.cpp`
 
-![Image](Image/6.png)
+![Image](6.png)
 
 type "i" to go in insert mode.
 
-![Image](Image/7.png)
+![Image](7.png)
 
 Write the code :\
 e.g.\
@@ -63,7 +63,7 @@ int main()\
         return 0;\
 } 
 
-![Image](Image/8.png)\
+![Image](8.png)\
 then press `esc` and then type `:wq!` to come out from editor.
 
 **Step 3: Compilation of CPP Program file**
@@ -71,13 +71,13 @@ then press `esc` and then type `:wq!` to come out from editor.
 Use this command to Compile the CPP code and list the containt of current directory to see if the .out File is created or not.\
 `g++ first.cpp` and then `ls -l` to see that *.out* file is created or not.
 
-![Image](Image/11.png)
+![Image](11.png)
 
 **Step 4: Running the Compile code of CPP**
 
 Use the command to get the output :\
 `./a.out`
 
-![Image](Image/12.png)
+![Image](12.png)
 
 *Congratulations!!!* You are done with the setup and running the program of cpp by using AWS Cloud Instance for Linux amazon ubuntu OS.
