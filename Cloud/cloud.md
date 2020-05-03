@@ -26,15 +26,15 @@ Basically cloud is a server which is access over the internet on any device anyw
 
 ## Advantages of cloud :-
 ***
-1. Cost Savings\
-2. Security\
-3. Flexibility\
-4. Mobility\
-5. Insight\
-6. Increased Collaboration\
-7. Quality Control\
-8. Disaster Recovery\
-9. Loss Prevention\
-10. Automatic Software Updates\
-11. Competitive Edge\
+1. Cost Savings
+2. Security
+3. Flexibility
+4. Mobility
+5. Insight
+6. Increased Collaboration
+7. Quality Control
+8. Disaster Recovery
+9. Loss Prevention
+10. Automatic Software Updates
+11. Competitive Edge
 12. Sustainability
