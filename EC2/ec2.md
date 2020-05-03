@@ -3,7 +3,7 @@
 
 Elastic Compute Cloud, or EC2, is the central part of Amazon Cloud Services, a cloud computing platform that allows users to rent virtual servers on which they can run their own applications.
 
-![Image](image url)
+ ![Image](server.svg)
 
 Traditionally, to set up a server for your company, you would be responsible for :
 
@@ -17,57 +17,75 @@ Traditionally, to set up a server for your company, you would be responsible for
 
 When you use EC2, Amazon provides you with its service based on the “cloud computing model”. You can borrow a chunk of your desired size from their data centers on a “pay as you go” basis.
 
-## Advantages of EC2 :-
-***
 
->1. You don’t have to go through the hassle of managing your server(s).
->2. Scalability i.e.You can shrink and expand the capacity of your instance whenever you want.
->3. You can commit as many EC2 instances as you require.
->4. Amazon provides you with flexible cloud hosting services like choosing the OS, memory and CPU configuration.
->5. reliable and secure.
 
 
 ## How to create instance EC2 in AWS :-
+***
 
-EC2 is a remote machine i.e. virtual machine and in EC2 we can create it as per our requirement.
+EC2 is a remote machine i.e. virtual machine and we can create it as per our requirement.
 
 *so lets see the steps ->*
 
-**Step-1** :
+**1) Step-1 :** 
 
-Here choose the OS for an EC2 instance as per the requirement \
-![Image](URL)
+Here choose the OS for an EC2 instance as per the requirement 
 
-**Step-2** :
 
-Here you select the type of instance as per the requirement (CPU, RAM)\
+![Image](step1.png)
 
-![Image](URL)
+**2) Step-2 :**
 
-**Step-3 :**
+Here you select the type of instance as per the requirement (CPU, RAM)
 
-Configure the instance to suit your requirements. You can launch multiple instances from the same AMI.\
-![Image](URL)
+![Image](step2.png)
 
-**Step-4** :
+**3) Step-3 :**
 
-Here you can attach additional EBS volume/instance volume to your instance.\
-In AWS storage is refered as *VOLUME*.\
-![Image](URL)
+Configure the instance to suit your requirements. You can launch multiple instances from the same AMI.
 
-**Step-5 :**
 
-A tag consists of a case-sensitive key-value pair. A copy of a tag can be applied to volumes, instances or both.\
-![Image](URL)
+![Image](step3.png)
 
-**Step-6 :** 
+**4) Step-4** :
 
-Here you can add security group to allow specific traffic to reach your instance.\
-![Image](URL)
+Here you can attach additional EBS volume/instance volume to your instance.
+In AWS storage is refered as *VOLUME*.
 
-**Step-7 :**
+
+![Image](step4.png)
+
+**5) Step-5 :**
+
+A tag consists of a case-sensitive key-value pair. A copy of a tag can be applied to volumes, instances or both.
+
+
+![Image](step5.png)
+
+**6) Step-6 :** 
+
+Here you can add security group to allow specific traffic to reach your instance.
+
+
+![Image](step6.png)
+
+**7) Step-7 :**
 
 Please review your instance launch details. You can go back to edit changes for each section.
 
+
+![Image](step7.png)
+
 After that click on ***Launch*** and now you are ready with your instance. You get the interface of launched instance. 
+
+## Advantages of EC2 :-
+***
+
+```
+1. You don’t have to go through the hassle of managing your server(s).
+2. Scalability i.e.You can shrink and expand the capacity of your instance whenever you want.
+3. You can commit as many EC2 instances as you require.
+4. Amazon provides you with flexible cloud hosting services like choosing the OS, memory and CPU configuration.
+5. reliable and secure.
+```
 
