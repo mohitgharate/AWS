@@ -12,7 +12,7 @@ To check try the command :\
 If  it shows like above image then you have to install gcc in linux.
 
 
-**Step-1 : Installation of GCC-C++**
+***Step-1 : Installation of GCC-C++***
 ***
 
 command to install :\
@@ -61,10 +61,10 @@ e.g.\
 #include\<iostream>\
 using namespace std;
 ```
-int main()\
-{\
-        cout<<"\n\nHello,\ World"<<endl;\
-        return 0;\
+int main()
+{
+        cout<<"Hello World"<<endl;
+        return 0;
 } 
 ```
 ![Image](8.png)\
@@ -74,7 +74,7 @@ then press `esc` and then type `:wq!` to come out from editor.
 ***
 
 Use this command to Compile the CPP code and list the containt of current directory to see if the .out File is created or not.\
-`g++ first.cpp` and then `ls -l` to see that *.out* file is created or not.
+`g++ first.cpp` and then `ls -l` to see that ***.out*** file is created or not.
 
 ![Image](11.png)
 
