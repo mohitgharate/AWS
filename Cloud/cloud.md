@@ -10,7 +10,7 @@ Basically cloud is a server which is access over the internet on any device anyw
 ***
 **1.Private cloud->**
  
-Private cloud is a server which is owened by one organization and it is fully dadicated to that particular orgnization.
+>Private cloud is a server which is owened by one organization and it is fully dadicated to that particular orgnization.
 
 **2.Public cloud->**
 
@@ -18,11 +18,11 @@ Private cloud is a server which is owened by one organization and it is fully da
  
 **3.Hybrid cloud->**
 
-Hybrid cloud deployments combine public and private clouds.  An organization may use their private cloud for some services and their public cloud for others, or they may use the public cloud as backup for their private cloud.
+>Hybrid cloud deployments combine public and private clouds.  An organization may use their private cloud for some services and their public cloud for others, or they may use the public cloud as backup for their private cloud.
 
 **4.Multicloud->**
 
-Multicloud is a type of cloud deployment that involves using multiple public clouds. In other words, an organization with a multicloud deployment rents virtual servers and services from several external vendors.
+>Multicloud is a type of cloud deployment that involves using multiple public clouds. In other words, an organization with a multicloud deployment rents virtual servers and services from several external vendors.
 
 ## Advantages of cloud :-
 ***
