@@ -8,7 +8,7 @@ Basically cloud is a server which is access over the internet on any device anyw
 
 ## Types of cloud:-
 ***
-** 1.Private cloud->**
+**1.Private cloud->**
  
 Private cloud is a server which is owened by one organization and it is fully dadicated to that particular orgnization.
 
