@@ -41,7 +41,7 @@ Enter this command to Install GCC-C++ :\
 
 *Now setup is ready to execute our first CPP program on our AWS LINUX Instance.*
 
-**Step-2 : Implementation of CPP program**
+***Step-2 : Implementation of CPP program***
 ***
 
 
@@ -70,7 +70,7 @@ int main()
 ![Image](8.png)\
 then press `esc` and then type `:wq!` to come out from editor.
 
-**Step 3: Compilation of CPP Program file**
+***Step 3: Compilation of CPP Program file***
 ***
 
 Use this command to Compile the CPP code and list the containt of current directory to see if the .out File is created or not.\
@@ -78,7 +78,7 @@ Use this command to Compile the CPP code and list the containt of current direct
 
 ![Image](11.png)
 
-**Step 4: Running the Compile code of CPP**
+***Step 4: Running the Compile code of CPP***
 ***
 
 Use the command to get the output :\
