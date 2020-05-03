@@ -29,49 +29,49 @@ EC2 is a remote machine i.e. virtual machine and in EC2 we can create it as per 
 
 **1) Step-1 :** 
 
-Here choose the OS for an EC2 instance as per the requirement \
+Here choose the OS for an EC2 instance as per the requirement 
 
 
 ![Image](step1.png)
 
 **2) Step-2 :**
 
-Here you select the type of instance as per the requirement (CPU, RAM)\
+Here you select the type of instance as per the requirement (CPU, RAM)
 
 ![Image](step2.png)
 
 **3) Step-3 :**
 
-Configure the instance to suit your requirements. You can launch multiple instances from the same AMI.\
+Configure the instance to suit your requirements. You can launch multiple instances from the same AMI.
 
 
 ![Image](step3.png)
 
 **4) Step-4** :
 
-Here you can attach additional EBS volume/instance volume to your instance.\
-In AWS storage is refered as *VOLUME*.\
+Here you can attach additional EBS volume/instance volume to your instance.
+In AWS storage is refered as *VOLUME*.
 
 
 ![Image](step4.png)
 
 **5) Step-5 :**
 
-A tag consists of a case-sensitive key-value pair. A copy of a tag can be applied to volumes, instances or both.\
+A tag consists of a case-sensitive key-value pair. A copy of a tag can be applied to volumes, instances or both.
 
 
 ![Image](step5.png)
 
 **6) Step-6 :** 
 
-Here you can add security group to allow specific traffic to reach your instance.\
+Here you can add security group to allow specific traffic to reach your instance.
 
 
 ![Image](step6.png)
 
 **7) Step-7 :**
 
-Please review your instance launch details. You can go back to edit changes for each section.\
+Please review your instance launch details. You can go back to edit changes for each section.
 
 
 ![Image](step7.png)
