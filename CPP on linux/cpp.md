@@ -43,7 +43,7 @@ Enter this command to Install GCC-C++ :\
 **Step-2 : Implementation of CPP program**
 
 Use any editor to type the code.\
-For editor rry command :\
+For editor try command :\
 e.g.\
 `vi first.cpp`
 
@@ -56,13 +56,14 @@ type "i" to go in insert mode.
 Write the code :\
 e.g.\
 #include\<iostream>\
-using namespace std;\
+using namespace std;
+```
 int main()\
 {\
         cout<<"\n\nHello,\ World"<<endl;\
         return 0;\
 } 
-
+```
 ![Image](8.png)\
 then press `esc` and then type `:wq!` to come out from editor.
 
